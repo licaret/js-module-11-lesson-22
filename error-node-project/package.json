@@ -1,0 +1,25 @@
+{
+  "name": "js-module-11-lesson-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/licaret/js-module-11-lesson-22.git"
+  },
+  "keywords": [],
+  "author": "Raul Licaret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/licaret/js-module-11-lesson-22/issues"
+  },
+  "homepage": "https://github.com/licaret/js-module-11-lesson-22#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
